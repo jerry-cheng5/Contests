@@ -2,21 +2,23 @@ import sys
 
 m = sys.stdin.readline()
 n = sys.stdin.readline()
-ones_eights = False
-nine_and_six = False
-one_eight_zero = False
 count = 0
 
-for i in range(int(m), int(n) + 1):
-    temp = str(i)
-    sum = 0
-    for j in range(0, len(temp)):
-        sum += int(temp[j])
-    if sum % 8 == 0 or sum / len(temp) == 1:
-        count += 1
-        continue
-    for j in range(0, len(temp)):
-        if temp[j] != 9 and temp[j] != 6:
-            break
-    if
+for i in range(int(m), int(n)+1):
+    number = str(i)
+    mirrored = ""
 
+    for j in reversed(range(len(number))):
+        if number[j] == '6':
+            mirrored += '9'
+        elif number[j] == '9':
+            mirrored += '6'
+        elif number[j] == '0' or number[j] == '1' or number[j] == '8':
+            mirrored += number[j]
+        else:
+            mirrored += '_'
+
+    if number == mirrored:
+        count += 1
+
+print(count)

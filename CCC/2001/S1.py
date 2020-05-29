@@ -1,3 +1,10 @@
+'''
+DMOJ
+CCC 2001 S1 - Keeping Score
+https://dmoj.ca/problem/ccc01s1
+Jerry Cheng
+'''
+
 import sys
 card_input = sys.stdin.readline()
 suit = 0

@@ -1,3 +1,10 @@
+'''
+DMOJ
+CCC 2001 J1 - Dressing Up
+https://dmoj.ca/problem/ccc01j1
+Jerry Cheng
+'''
+
 import sys
 
 h = int(sys.stdin.readline())

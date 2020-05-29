@@ -1,3 +1,10 @@
+'''
+DMOJ
+CCC 2003 S1 - Snakes and Ladders
+https://dmoj.ca/problem/ccc03s1
+Jerry Cheng
+'''
+
 import sys
 input = sys.stdin.readline
 

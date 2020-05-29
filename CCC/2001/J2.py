@@ -1,3 +1,10 @@
+'''
+DMOJ
+CCC 2001 J2 - Mod Inverse
+https://dmoj.ca/problem/ccc01j2
+Jerry Cheng
+'''
+
 import sys
 
 x = int(sys.stdin.readline())

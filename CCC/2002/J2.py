@@ -1,3 +1,10 @@
+'''
+DMOJ
+CCC 2002 J2 - AmeriCanadian
+https://dmoj.ca/problem/ccc02j2
+Jerry Cheng
+'''
+
 import sys
 input = sys.stdin.readline
 

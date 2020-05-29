@@ -1,3 +1,10 @@
+'''
+DMOJ
+CCC 2000 S3 - Surfing
+https://dmoj.ca/problem/ccc00s3
+Jerry Cheng
+'''
+
 import sys
 import re
 input = sys.stdin.readline

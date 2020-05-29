@@ -1,3 +1,10 @@
+'''
+DMOJ
+CCC 2002 S1 - The Students' Council Breakfast
+https://dmoj.ca/problem/ccc02s1
+Jerry Cheng
+'''
+
 import sys
 input = sys.stdin.readline
 

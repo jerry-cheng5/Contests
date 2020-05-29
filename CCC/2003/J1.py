@@ -1,3 +1,10 @@
+'''
+DMOJ
+CCC 2003 J1 - Trident
+https://dmoj.ca/problem/ccc03j1
+Jerry Cheng
+'''
+
 import sys
 input = sys.stdin.readline
 

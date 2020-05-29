@@ -1,3 +1,10 @@
+'''
+DMOJ
+CCC 2002 S3 - Blindfold
+https://dmoj.ca/problem/ccc02s3
+Jerry Cheng
+'''
+
 import sys
 input = sys.stdin.readline
 

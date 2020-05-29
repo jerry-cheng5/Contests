@@ -1,3 +1,10 @@
+'''
+DMOJ
+CCC 2002 S2 - Fraction Action
+https://dmoj.ca/problem/ccc02s2
+Jerry Cheng
+'''
+
 import sys
 input = sys.stdin.readline
 

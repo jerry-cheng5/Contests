@@ -1,3 +1,10 @@
+'''
+DMOJ
+CCC 2000 S2 - Babbling Brooks
+https://dmoj.ca/problem/ccc00s2
+Jerry Cheng
+'''
+
 import sys
 
 n = int(sys.stdin.readline())

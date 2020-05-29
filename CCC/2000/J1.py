@@ -1,3 +1,10 @@
+'''
+DMOJ
+CCC 2000 J1 - Calendar
+https://dmoj.ca/problem/ccc00j1
+Jerry Cheng
+'''
+
 import sys
 
 month_params = sys.stdin.readline()

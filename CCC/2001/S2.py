@@ -1,3 +1,10 @@
+'''
+DMOJ
+CCC 2001 S2 - Spirals
+https://dmoj.ca/problem/ccc01s2
+Jerry Cheng
+'''
+
 import sys
 import math
 input = sys.stdin.readline

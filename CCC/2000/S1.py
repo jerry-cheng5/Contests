@@ -1,3 +1,10 @@
+'''
+DMOJ
+CCC 2000 S1 - Slot Machines
+https://dmoj.ca/problem/ccc00s1
+Jerry Cheng
+'''
+
 import sys
 
 quarters = int(sys.stdin.readline())

@@ -1,3 +1,10 @@
+'''
+DMOJ
+CCC 2003 S2 - Poetry
+https://dmoj.ca/problem/ccc03s2
+Jerry Cheng
+'''
+
 import sys
 input = sys.stdin.readline
 

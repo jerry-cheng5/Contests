@@ -1,3 +1,10 @@
+'''
+DMOJ
+CCC 2003 J2 - Picture Perfect
+https://dmoj.ca/problem/ccc03j2
+Jerry Cheng
+'''
+
 import sys
 import math
 input = sys.stdin.readline

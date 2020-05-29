@@ -1,3 +1,10 @@
+'''
+DMOJ
+CCC 2000 J2 - 9966
+https://dmoj.ca/problem/ccc00j2
+Jerry Cheng
+'''
+
 import sys
 
 m = sys.stdin.readline()
